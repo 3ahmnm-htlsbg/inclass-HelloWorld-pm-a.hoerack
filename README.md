@@ -1,5 +1,5 @@
 # inclass-HelloWorld-pm-a.hoerack
-Development platform
+Development platform: macOS 
 Description: 2D project, practicing create unity project locally and
 on Github, writing a Readme File, importing PLaymaker and updating gitignore
 with Playmaker ignore.$
